@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">practica3</string>
+    <string name="mensaje">mensaje de bienvenida</string>
+    <string name="imagen">jpeg</string>
+    <string name="menu">Menu principal</string>
+</resources>
